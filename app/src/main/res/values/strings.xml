@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercício2</string>
+    <string name="change">Botão</string>
+    <string name="textField">Escreva aqui!</string>
+    <string name="label">Mensagem</string>
+
+</resources>
